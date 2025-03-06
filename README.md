@@ -1,4 +1,4 @@
-## Hola a Todos, Soy Michael Yara 👋
+## Hola a Todos, soy Michael Yara 👋
 
 <!--
 **MichaelYaraG/MichaelYaraG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
