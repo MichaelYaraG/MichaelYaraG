@@ -24,7 +24,7 @@
 ⏱️ Administración de tiempo, responsabilidades y avances en equipo.  
 
 🌟 [**AppClips**](https://github.com/MichaelYaraG/AppClips)  
-📱 Proyecto con enfoque en experiencias ligeras y usabilidad.  
+📱 Proyecto con enfoque en experiencias ligeras y usabilidad (En Desarrollo).
 
 ---
 
