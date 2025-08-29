@@ -31,7 +31,7 @@
 ## 🛠️ Tecnologías & Herramientas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,vue,angular,html,css,js,ts,git,github,azure,mysql,postgres,flutter" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,vue,angular,html,css,js,git,github,azure,mysql,sqlserver" />
 </p>
 
 ---
